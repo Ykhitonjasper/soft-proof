@@ -38,9 +38,9 @@ targets:
         TARGETED_DEVICE_FAMILY: "1"
         ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
         ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
-        INFOPLIST_KEY_CFBundleDisplayName: SoftProof
+        INFOPLIST_KEY_CFBundleDisplayName: "Photoartai-Photoeditor"
         PRODUCT_BUNDLE_IDENTIFIER: com.softproof.SoftProof
-        PRODUCT_DISPLAY_NAME: SoftProof
+        PRODUCT_DISPLAY_NAME: "Photoartai-Photoeditor"
         CODE_SIGN_ENTITLEMENTS: Config/SoftProof.entitlements
         DEVELOPMENT_TEAM: "QPN38WN543"
         SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD: NO
