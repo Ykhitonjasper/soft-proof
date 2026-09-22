@@ -13,7 +13,7 @@ settings:
     GENERATE_INFOPLIST_FILE: YES
     INFOPLIST_FILE: SoftProof/Info.plist
     MARKETING_VERSION: "1.0.0"
-    CURRENT_PROJECT_VERSION: "1"
+    CURRENT_PROJECT_VERSION: "2"
     PRODUCT_BUNDLE_IDENTIFIER: com.softproof.SoftProof
     PRODUCT_NAME: SoftProof
     DEVELOPMENT_TEAM: "QPN38WN543"
@@ -38,6 +38,7 @@ targets:
         TARGETED_DEVICE_FAMILY: "1"
         ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
         ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        INFOPLIST_KEY_CFBundleName: "Photoartai-Photoeditor"
         INFOPLIST_KEY_CFBundleDisplayName: "Photoartai-Photoeditor"
         PRODUCT_BUNDLE_IDENTIFIER: com.softproof.SoftProof
         PRODUCT_DISPLAY_NAME: "Photoartai-Photoeditor"
